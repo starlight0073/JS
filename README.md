@@ -1,5 +1,4 @@
 # JS笔记记录
 
-## [note](JS)
+## [Redux](redux)
 
-* [redux](JS/redux)
